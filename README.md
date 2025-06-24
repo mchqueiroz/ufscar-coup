@@ -1,6 +1,6 @@
 # Coup Online
 
-**Link para jogar:** https://online-coup.herokuapp.com/
+**Link para jogar:** https://ufscar-coup.onrender.com
 
 ## Sobre
 

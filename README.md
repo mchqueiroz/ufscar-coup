@@ -1,37 +1,30 @@
-# Online Coup
+# Coup Online
 
-**Link to play:** https://online-coup.herokuapp.com/
+**Link para jogar:** https://online-coup.herokuapp.com/
 
-## About
+## Sobre
 
-This version of Coup can be played online with 2-8 players and features a lobby, player chat, turn log, and action statistics. <br>
+Esta versão de Coup pode ser jogada online com 2 a 8 jogadores e inclui lobby, chat entre jogadores, registro de turnos e estatísticas de ações. <br>
 
-**Link to the official rules:** https://www.ultraboardgames.com/coup/game-rules.php <br>
+**Link para as regras oficiais:** https://www.ultraboardgames.com/coup/game-rules.php <br>
 
-### Rule Modifications & Game Clarification
+### Modificações de Regras e Esclarecimentos do Jogo
 
-- With 7 or 8 players, the deck will have 20 total cards (4 of each character). <br>
-- If you do not go first or last, a dashed line will clarify your turn order. Turns pass in a clockwise fashion, and the first player is decided randomly.
-- A coup involves a character guess and will be unsuccessful if the guess is incorrect (i.e. the targeted player does not possess that character).
-- Stealing from a player with 0 coins produces no net gain or loss of coins from either side if successful.
+- Com 7 ou 8 jogadores, o baralho terá 20 cartas no total (4 de cada personagem). <br>
+- Se você não for o primeiro nem o último a jogar, uma linha tracejada indicará a sua ordem de turno. Os turnos seguem no sentido horário, e o primeiro jogador é escolhido aleatoriamente.
+- Um golpe (*coup*) envolve a escolha de um personagem e será malsucedido se a escolha estiver incorreta (ou seja, se o jogador alvo não possuir aquele personagem).
+- Roubar de um jogador com 0 moedas não gera ganho nem perda de moedas para nenhum dos lados, mesmo que a ação seja bem-sucedida.
 
-***Refer to the in-game rules panel for additional clarification.***
+***Consulte o painel de regras dentro do jogo para esclarecimentos adicionais.***
 
-### Notes
-- Online Coup is currently in beta testing. It may take time to load some images, and bugs may occur while playing.
-- When using a mobile device (not recommended), play in landscape mode for the best experience.
-- ***Please use the LEAVE button to exit a room or a game.***
+### Observações
+- Coup Online está atualmente em fase beta. Pode levar algum tempo para carregar algumas imagens, e erros podem ocorrer durante a partida.
+- Ao utilizar um dispositivo móvel (não recomendado), jogue no modo paisagem para a melhor experiência.
+- ***Use o botão LEAVE para sair de uma sala ou partida.***
 
-## Credits
-- Online Coup was developed using [React](https://reactjs.org/) and [boardgame.io](https://boardgame.io/).
-- Icons come from [Font Awesome](https://fontawesome.com/). 
-- Images come from the original Coup board game by Indie Boards & Cards (released 2012). Designer, artist, and publisher credits can be found [here](https://boardgamegeek.com/boardgame/131357/coup).
+## Créditos
+- Coup Online foi desenvolvido com [React](https://reactjs.org/) e [boardgame.io](https://boardgame.io/).
+- Os ícones são do [Font Awesome](https://fontawesome.com/).  
+- As imagens são do jogo de tabuleiro *Coup* original da Indie Boards & Cards (lançado em 2012). Créditos de designer, artista e editora podem ser encontrados [aqui](https://boardgamegeek.com/boardgame/131357/coup).
 
 <br>
-
-## Development
-
-1. Fork the repository.
-2. Run `npm install` to install the packages.
-3. Run `npm start` to run the client.
-4. In a separate terminal, run `npm run serve` to run the server.

@@ -23,7 +23,7 @@ Esta versão de Coup pode ser jogada online com 2 a 8 jogadores e inclui lobby, 
 - ***Use o botão LEAVE para sair de uma sala ou partida.***
 
 ## Créditos
-- Coup Online foi desenvolvido com [React](https://reactjs.org/) e [boardgame.io](https://boardgame.io/).
+- Coup Online foi desenvolvido com [React](https://reactjs.org/) e [boardgame.io](https://boardgame.io/) por vyang1222.
 - Os ícones são do [Font Awesome](https://fontawesome.com/).  
 - As imagens são do jogo de tabuleiro *Coup* original da Indie Boards & Cards (lançado em 2012). Créditos de designer, artista e editora podem ser encontrados [aqui](https://boardgamegeek.com/boardgame/131357/coup).
 
